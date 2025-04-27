@@ -51,38 +51,38 @@ This project provides a complete workflow for transforming a CFG for LL(1) parsi
 ![Image](https://github.com/user-attachments/assets/dd849cc6-da8a-4848-995e-963a473aceb9)
 
 
-Left Factoring
+# Left Factoring
  
 
 ![Image](https://github.com/user-attachments/assets/377152bb-9bf4-47af-b38f-56d78ad110bb)
 
 
-Left Recursion:
+# Left Recursion:
 
  
 ![Image](https://github.com/user-attachments/assets/1fa56ee0-c462-4c97-bcc8-e864f205add1)
 
 
 
-First & Follow
+# First & Follow
 
 
 ![Image](https://github.com/user-attachments/assets/f650054c-5b72-4f36-bc84-31e6c15bf302)
 
 
-Parsing Table:
+# Parsing Table:
 
 
 ![Image](https://github.com/user-attachments/assets/f6795aea-55c6-4313-8ce3-0ea0acddbe01)
 
 
-Parsing Stack with Error
+# Parsing Stack with Error
 
 
 ![Image](https://github.com/user-attachments/assets/54a7480b-0e43-41e4-88cb-af78091e04a6)
 
 
-Successfully Parse
+# Successfully Parse
 
 
 ![Image](https://github.com/user-attachments/assets/320d6e58-a281-487b-b172-91a4d10719b7)
