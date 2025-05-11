@@ -1,0 +1,19 @@
+{
+  "user": {
+    "id": 123,
+    "name": "John Doe",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown"
+    },
+    "orders": [
+      {
+        "id": 456,
+        "items": [
+          {"product": "A1", "quantity": 2},
+          {"product": "B2", "quantity": 1}
+        ]
+      }
+    ]
+  }
+}
