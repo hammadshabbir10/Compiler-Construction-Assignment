@@ -1,5 +1,0 @@
-E -> abc | abx
-H -> xyz | xyp
-G -> G + E | ab
-J -> J * H | ef
-
