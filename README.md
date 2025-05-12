@@ -56,14 +56,23 @@ make
 ./json2relcsv --out-dir outputs/array_scalars tests/array_scalars.json
 cat outputs/array_scalars/main.csv
 
+
+![Screenshot from 2025-05-11 17-47-14](https://github.com/user-attachments/assets/a48d86e1-be54-4d7c-8dd0-4a4dc8c6aa30)
+
+
 # Print Tokens:
 
 ./json2relcsv --print-tokens tests/array_objects.json
+
+![Screenshot from 2025-05-11 17-44-30](https://github.com/user-attachments/assets/a27e8d68-4b65-462a-8f35-a085e7ecc667)
 
 
 # Print AST tree
 
 ./json2relcsv --print-ast tests/complex.json
+
+
+![Screenshot from 2025-05-11 17-43-50](https://github.com/user-attachments/assets/0fafdb97-4bc5-467b-ae91-aecd40dc9bff)
 
 
 ### Theory & Approach (Key Concepts)
